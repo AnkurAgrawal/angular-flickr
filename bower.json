@@ -1,5 +1,5 @@
 {
-  "name": "angularFlickr",
+  "name": "angular-flickr",
   "version": "1.0.0",
   "homepage": "https://github.com/AnkurAgrawal/angular-flickr",
   "main": [
@@ -20,7 +20,7 @@
     "angular",
     "angularjs",
     "javascript",
-    "plugin",
+    "plugin"
   ],
   "ignore": [
     "**/.*",
